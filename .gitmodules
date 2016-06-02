@@ -1,0 +1,3 @@
+[submodule "Assets/Media"]
+	path = Assets/Media
+	url = https://yeonjong@github.com/yeonjong/media.git
